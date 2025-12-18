@@ -2,7 +2,7 @@ Developing a Proof of Concept XR Prototype Model of a VDOT Traffic Signal Contro
 
 https://projectfpga.com/pub/unity.html
 
-![Alt text](CAPTURE.PNG)
+![Alt text](Capture.PNG)
 
 Technology stack 
 The proof-of-concept XR prototype for the VDOT Adaptive Traffic Controller (ATC) cabinet was developed using Unity as the primary game engine while Apple Vision Pro provides native development pathways through Xcode. Unity was chosen since it was the main language used for the course and its robust integration with Apple VisionOS via the Unity PolySpatial package. 
